@@ -107,7 +107,7 @@ Offline mode for low-connectivity areas.
 
 7.Analytics dashboards and machine learning for continuous improvement.
              
-             📈📈FLOW CHART📈📈
+             Flow Chart
 <img width="1536" height="1024" alt="hackthon img" src="https://github.com/user-attachments/assets/526481ab-7d60-43f3-9c1a-c6e755ced803" />
 
 <img width="1536" height="1024" alt="hackthon 2" src="https://github.com/user-attachments/assets/44c076ce-9bb1-4256-8bec-8d8e7cf38cf1" />
